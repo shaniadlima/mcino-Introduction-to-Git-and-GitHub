@@ -1,0 +1,15 @@
+  bug-fix-typo
+* main
+  remotes/origin/HEAD -> origin/main
+  remotes/origin/bug-fix-typo
+  remotes/origin/main
+  remotes/upstream/HEAD -> upstream/main
+  remotes/upstream/main
+
+  bug-fix-typo                b7be1c7 [origin/bug-fix-typo] Fix typo in README
+* main                        b7be1c7 [origin/main: ahead 1] Fix typo in README
+  remotes/origin/HEAD         -> origin/main
+  remotes/origin/bug-fix-typo b7be1c7 Fix typo in README
+  remotes/origin/main         333e6ae Add files via upload
+  remotes/upstream/HEAD       -> upstream/main
+  remotes/upstream/main       ad95b0a Create close_pr.yml
