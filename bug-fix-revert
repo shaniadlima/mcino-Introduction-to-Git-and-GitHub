@@ -1,0 +1,14 @@
+Command: curl -s https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pulls/10328
+  "html_url": "https://github.com/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pull/10328",
+    "html_url": "https://github.com/chandrakantpatil0008",
+  "head": {
+    "ref": "bug-fix-typo",
+      "full_name": "chandrakantpatil0008/mcino-Introduction-to-Git-and-GitHub",
+        "html_url": "https://github.com/chandrakantpatil0008",
+      "html_url": "https://github.com/chandrakantpatil0008/mcino-Introduction-to-Git-and-GitHub",
+      "html_url": "https://github.com/chandrakantpatil0008",
+    "ref": "main",
+      "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub",
+        "html_url": "https://github.com/ibm-developer-skills-network",
+      "html_url": "https://github.com/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub",
+      "html_url": "https://github.com/ibm-developer-skills-network",
