@@ -1,14 +1,15 @@
-Command: curl -s https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pulls/10328
-  "html_url": "https://github.com/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pull/10328",
-    "html_url": "https://github.com/chandrakantpatil0008",
+Command: curl -s https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pulls/12879 | grep -E '"html_url"|"head"|"full_name"|"ref"'
+
+  "html_url": "https://github.com/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pull/12879",
+    "html_url": "https://github.com/shaniadlima",
   "head": {
     "ref": "bug-fix-typo",
-      "full_name": "chandrakantpatil0008/mcino-Introduction-to-Git-and-GitHub",
-        "html_url": "https://github.com/chandrakantpatil0008",
-      "html_url": "https://github.com/chandrakantpatil0008/mcino-Introduction-to-Git-and-GitHub",
-      "html_url": "https://github.com/chandrakantpatil0008",
+    "full_name": "shaniadlima/mcino-Introduction-to-Git-and-GitHub",
+      "html_url": "https://github.com/shaniadlima",
+      "html_url": "https://github.com/shaniadlima/mcino-Introduction-to-Git-and-GitHub",
+      "html_url": "https://github.com/shaniadlima",
     "ref": "main",
-      "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub",
-        "html_url": "https://github.com/ibm-developer-skills-network",
-      "html_url": "https://github.com/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub",
+    "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub",
       "html_url": "https://github.com/ibm-developer-skills-network",
+      "html_url": "https://github.com/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub",
+      "html_url": "https://github.com/ibm-developer-skills-network"
